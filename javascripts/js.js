@@ -59,11 +59,6 @@ else {
 
 // задача 4
 
-function getRandomIntInclusive(1, 10) {
-    min = Math.ceil(1);
-    max = Math.floor(10);
-    return Math.floor(Math.random() * (10 - 1 + 1) + 1); // Максимум и минимум включаются
-  }
 
 
 })
